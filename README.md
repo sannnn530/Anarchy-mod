@@ -58,4 +58,5 @@ cd AnarchyMod
 Built JARs are located in each module's `build/libs/` directory.
 
 ## License
-[MIC] (LICENSE)
+
+[MIT](LICENSE)
